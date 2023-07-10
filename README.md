@@ -1,9 +1,6 @@
 # martinquest4ever
 movement:
-A <-
-
-D ->
-S [CROUCH]
+A [<-], D [->], S [CROUCH]
 
 melee:
 U
