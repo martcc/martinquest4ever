@@ -1,6 +1,7 @@
 # martinquest4ever
 movement:
 A <-
+
 D ->
 S [CROUCH]
 
@@ -15,4 +16,5 @@ L
 
 combos:
 A -> W -> D -> U/I [to the left]
+
 D -> W -> A -> U/I [to the right]
